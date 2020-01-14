@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Graduação em Administração de Empresas, FEARP-USP, 2004
+* Mestrado em Estatística, UFSCar, 2007
+* Mestrado em Engenharia de Produção, EESC-USP, 2007
+* Doutorado em Administração de Empresas, EAESP-FGV, 2017
 
 Work experience
 ======
