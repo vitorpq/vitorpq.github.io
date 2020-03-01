@@ -16,7 +16,7 @@ Educação
 * Mestrado em Engenharia de Produção, EESC-USP, 2007
 * Doutorado em Administração de Empresas, EAESP-FGV, 2017
 
-Work experience
+Experiência
 ======
 * Summer 2015: Research Assistant
   * Github University
