@@ -3,7 +3,7 @@ title: "BRAZILIAN TERM STRUCTURE OF INTEREST RATE MODELING: A NELSON-SIEGEL APPR
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2016
+date: 01-01-2016
 venue: 'Corporate Ownership & Control (Print)'
 paperurl: 'https://virtusinterpress.org/BRAZILIAN-TERM-STRUCTURE-OF.html'
 citation: 'Gonçalves, A. B., & Tumenas Marques, F. (2016). Brazilian term structure of interest rate modeling: A Nelson-Siegel approach. Corporate Ownership & Control, 14(1-3), 414-432'
