@@ -8,7 +8,6 @@ venue: 'Corporate Ownership & Control (Print)'
 paperurl: 'https://virtusinterpress.org/BRAZILIAN-TERM-STRUCTURE-OF.html'
 citation: 'Gonçalves, A. B., & Tumenas Marques, F. (2016). Brazilian term structure of interest rate modeling: A Nelson-Siegel approach. Corporate Ownership & Control, 14(1-3), 414-432'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
