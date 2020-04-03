@@ -18,24 +18,45 @@ Educação
 
 Experiência
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - Recente: Professor Adjunto
+  * Universidade Federal da Bahia
+  * Escola de Administração
+  * Área: Métodos Quantitativos e Gestão de Operações
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2019: Professor
+  * Fundação Getúlio Vargas - FGV
+  * Escola de Administração de Empresas de São Paulo - EAESP
+  * Área: Tecnologia e Data Science (TDS)
+
+* 2017 - 2018: Gerente de Big Data
+  * BNP Paribas Cardif
+  * Responsável pela área de monitoramento de riscos.
+
+* 2015 - 2016: Consultor Sênior
+  * Ernst  & Young (EY)
+  * Desenvolvimento de projetos de analytics e riscos para instituições do
+mercado financeiro.
+
+* 2011 - 2015: Consultor Sênior
+  * Risk Office
+  * Responsável pela área de precificação de ativos financeiros e
+desenvolvimento de modelos de otimização de carteiras.
+
+* 2008 - 2011: Analista Sênior
+  * Itaú Unibanco
+  * Atuação nas áreas de Desenvolvimento de Novos Negócios e Private Bank. Atuação na Fusão entre Itaú e Unibanco como Mckinsey Fellow.
   
+* 2006 - 2008: Trainee
+  * Makro Atacadista
+  * Trainee Head Office na área de Logística
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python 
+* R
+* SQL / NoSQL  
+* Linux
 
 Publications
 ======
