@@ -18,7 +18,7 @@ Educação
 
 Experiência
 ======
-* 2019 - Recente: Professor Adjunto
+* 2019 - Atual: Professor Adjunto
   * Universidade Federal da Bahia
   * Escola de Administração
   * Área: Métodos Quantitativos e Gestão de Operações
