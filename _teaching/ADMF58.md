@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "ADMF58"
-collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ADMF58
 venue: "EA UFBA"
