@@ -11,7 +11,7 @@ EA - UFBA
 ======
 * 2020 - 1o semestre
   * Graduação em Administração
-    * ADMF58 - Planejamento e Controle de Operações
+    * [ADMF58 - Planejamento e Controle de Operações](https://tumenas.github.io/teaching/)
     * ADM181 - Administração da Produção II
 
 * 2019 - 2o semestre
