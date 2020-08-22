@@ -9,8 +9,13 @@ author_profile: true
 
 Artigos
 ======
+MARQUES, F.T. Financiamento das universidades líderes nos rankings internacionais, um caminho para as universidades públicas brasileiras?. Avaliação: Revista da Avaliação da Educação Superior (no prelo)
 
-CARVALHO, A. G. ; MARQUES, F. T. . The Microstructure of the Brazilian Market for Corporate Bonds. RBGN-Revista Brasileira de Gestao de Negocios, 2019 (No prelo). 
+MARQUES, F.T. A volta aos estudos dos alunos evadidos do ensino superior brasileiro. Cadernos de Pesquisa (no prelo)
+
+MARQUES, F.T. A volta aos estudos dos alunos evadidos do ensino superior brasileiro. Cadernos de Pesquisa (no prelo)
+
+CARVALHO, Antonio Gledson de; MARQUES, Felipe Tumenas. The Microstructure of the Brazilian Market for Corporate Bonds. Revista Brasileira de Gestão de Negócios, v. 22, n. SPE, p. 482-500, 2020.
 
 CHAN, BETTY LILIAN ; MARQUES, FELIPE TUMENAS . Impacts of the regulatory model for market risk capital: application in a special savings company, an insurance company, and a pension fund. Revista Contabilidade & Finanças (Impresso), v. 28, p. 465-477, 2017. 
 
