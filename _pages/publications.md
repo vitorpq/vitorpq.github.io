@@ -11,7 +11,7 @@ Artigos
 ======
 MARQUES, F.T. Financiamento das universidades líderes nos rankings internacionais, um caminho para as universidades públicas brasileiras?. Avaliação: Revista da Avaliação da Educação Superior (no prelo)
 
-MARQUES, F.T. A volta aos estudos dos alunos evadidos do ensino superior brasileiro. Cadernos de Pesquisa (no prelo)
+MARQUES, Felipe Tumenas. A volta aos estudos dos alunos evadidos do ensino superior brasileiro. Cadernos de Pesquisa, v. 50, n. 178, p. 1061-1077, 2020.
 
 CARVALHO, Antonio Gledson de; MARQUES, Felipe Tumenas. The Microstructure of the Brazilian Market for Corporate Bonds. Revista Brasileira de Gestão de Negócios, v. 22, n. SPE, p. 482-500, 2020.
 
