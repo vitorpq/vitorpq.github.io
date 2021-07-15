@@ -9,7 +9,7 @@ author_profile: true
 
 Artigos
 ======
-MARQUES, F.T. Financiamento das universidades líderes nos rankings internacionais, um caminho para as universidades públicas brasileiras?. Avaliação: Revista da Avaliação da Educação Superior (no prelo)
+TUMENAS, Felipe. Financiamento das universidades líderes nos rankings internacionais, um caminho para as universidades públicas brasileiras?. Avaliação: Revista da Avaliação da Educação Superior (Campinas), v. 26, p. 270-287, 2021.
 
 MARQUES, Felipe Tumenas. A volta aos estudos dos alunos evadidos do ensino superior brasileiro. Cadernos de Pesquisa, v. 50, n. 178, p. 1061-1077, 2020.
 
