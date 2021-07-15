@@ -11,7 +11,7 @@ Artigos
 ======
 TUMENAS, Felipe. Financiamento das universidades líderes nos rankings internacionais, um caminho para as universidades públicas brasileiras?. Avaliação: Revista da Avaliação da Educação Superior (Campinas), v. 26, p. 270-287, 2021. [Link](https://www.scielo.br/j/aval/a/BznKpxfpS5T5DPj553XHnPx/)
 
-MARQUES, Felipe Tumenas. A volta aos estudos dos alunos evadidos do ensino superior brasileiro. Cadernos de Pesquisa, v. 50, n. 178, p. 1061-1077, 2020.[Link](https://www.scielo.br/j/cp/a/ZqDHt5S9wNgpdYqXV9hvtZr/?lang=pt)
+MARQUES, Felipe Tumenas. A volta aos estudos dos alunos evadidos do ensino superior brasileiro. Cadernos de Pesquisa, v. 50, n. 178, p. 1061-1077, 2020. [Link](https://www.scielo.br/j/cp/a/ZqDHt5S9wNgpdYqXV9hvtZr/?lang=pt)
 
 CARVALHO, Antonio Gledson de; MARQUES, Felipe Tumenas. The Microstructure of the Brazilian Market for Corporate Bonds. Revista Brasileira de Gestão de Negócios, v. 22, n. SPE, p. 482-500, 2020. [Link](https://www.scielo.br/j/rbgn/a/xwmvTmBnWTWRBKNXnrvSVXv/abstract/?lang=en)
 
