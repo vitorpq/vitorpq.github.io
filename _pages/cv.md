@@ -16,6 +16,8 @@ Educação
 * Mestrado em Engenharia de Produção, EESC-USP, 2007
 * Doutorado em Administração de Empresas, EAESP-FGV, 2017
 
+*** 
+
 Experiência
 ======
 * 2019 - Atual: Professor Adjunto
@@ -50,6 +52,7 @@ desenvolvimento de modelos de otimização de carteiras.
   * Makro Atacadista
   * Trainee Head Office na área de Logística
 
+***
 
 Skills
 ======
