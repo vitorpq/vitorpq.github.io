@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Felipe Tumenas Marques"
+title                    : "Vítor Emmanuel"
 title_separator          : "-"
-name                     : &name "Felipe"
+name                     : &name "Vítor"
 description              : "Personal Page"
-url                      : https://tumenas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vitorpq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tumenas.github.io"
+repository               : "vitorpq.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Felipe Tumenas Marques"
+  name             : "Vítor Emmanuel Andrade"
   avatar           : "felipe_foto_site.jpg"
-  bio              : "Professor na Escola de Administração da UFBA"
+  bio              : "Professor e Consultor Financeiro"
   location         : "Salvador, Brasil"
-  employer         : "Universidade Federal da Bahia"
+  employer         : "Eng2Tech Tecnologia"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B8xxWV0AAAAJ&hl=pt-BR"
-  email            : "tumenas@gmail.com"
+  email            : "vitor@vitor.one"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tumenas"
+  github           : "vitorpq"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "felipe-tumenas-92121110"
+  linkedin         : "vitoremmanuel"
   orcid            : "https://orcid.org/0000-0001-8327-4215"
   pinterest        :
   soundcloud       :
