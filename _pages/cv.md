@@ -11,58 +11,42 @@ redirect_from:
 
 Educação
 ======
-* Graduação em Administração de Empresas, FEARP-USP, 2004
-* Mestrado em Estatística, UFSCar, 2007
-* Mestrado em Engenharia de Produção, EESC-USP, 2007
-* Doutorado em Administração de Empresas, EAESP-FGV, 2017
+* Graduação em Engenharia de Produção, UFSCAR/FTC, 2008
+* Mestrado em Engenharia Industrial, UFBA, 2012
+* Graduação em Análise e Desenvolvimento de Sistemas, UNIFAVIP, 2024
 
 *** 
 
 Experiência
 ======
-* 2019 - Atual: Professor Adjunto
-  * Universidade Federal da Bahia
-  * Escola de Administração
-  * Área: Métodos Quantitativos e Gestão de Operações
+* 2020 - Atual: Professor
+  * Centro Universitário Ruy Barbosa
+  * Área: Finanças, Cálculo Numérico, Estatística, Programação em Java e Python e ML
 
-* 2018 - 2019: Professor
-  * Fundação Getúlio Vargas - FGV
-  * Escola de Administração de Empresas de São Paulo - EAESP
-  * Área: Tecnologia e Data Science (TDS)
+* 2012 - 2015: Professor
+  * Faculdade Presbiteriana Augusto Galvão
+  * Área: Cálculo e Economia
 
-* 2017 - 2018: Gerente de Big Data
-  * BNP Paribas Cardif
-  * Responsável pela área de monitoramento de riscos.
-
-* 2015 - 2016: Consultor Sênior
-  * Ernst  & Young (EY)
-  * Desenvolvimento de projetos de analytics e riscos para instituições do
-mercado financeiro.
-
-* 2011 - 2015: Consultor Sênior
-  * Risk Office
-  * Responsável pela área de precificação de ativos financeiros e
-desenvolvimento de modelos de otimização de carteiras.
-
-* 2008 - 2011: Analista Sênior
-  * Itaú Unibanco
-  * Atuação nas áreas de Desenvolvimento de Novos Negócios e Private Bank. Atuação na Fusão entre Itaú e Unibanco como Mckinsey Fellow.
+* 2012 - 2018: Diretor Geral
+  * Faculdade Presbiteriana Augusto Galvão
   
-* 2006 - 2008: Trainee
-  * Makro Atacadista
-  * Trainee Head Office na área de Logística
+* 2005 - 2007: Gestor
+  * Kananxuê Hotelaria e Viagens
+  * Administração hoteleira e de hospitalidade
 
 ***
 
 Skills
 ======
 * Python 
-* R
+* Java
+* C
+* JavaScript
 * SQL / NoSQL  
 * Linux
 
-Publications
-======
+# Publications
+<!-- ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -71,7 +55,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -79,6 +63,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

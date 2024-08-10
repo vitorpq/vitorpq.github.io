@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vítor Emmanuel"
+title                    : "Vítor One"
 title_separator          : "-"
 name                     : &name "Vítor"
 description              : "Personal Page"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vítor Emmanuel Andrade"
-  avatar           : "felipe_foto_site.jpg"
+  name             : "Vítor E. Andrade"
+  avatar           : "lattes.jpg"
   bio              : "Professor e Consultor Financeiro"
   location         : "Salvador, Brasil"
   employer         : "Eng2Tech Tecnologia"
