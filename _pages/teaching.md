@@ -7,11 +7,10 @@ redirect_from:
   - /teaching
 ---
 
-EA - UFBA
+UNIRUY
 ======
-* 2020 - 1o semestre
-  * Graduação em Administração
-    * [ADMF58 - Planejamento e Controle de Operações](https://tumenas.github.io/teaching/)
+* 2024 - 2o semestre
+    * []
     * ADM181 - Administração da Produção II
 
 * 2019 - 2o semestre

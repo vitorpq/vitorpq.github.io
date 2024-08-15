@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Cálculo Numérico"
 collection: teaching
 type: "Undergraduate course"
