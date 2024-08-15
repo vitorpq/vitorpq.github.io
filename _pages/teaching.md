@@ -10,8 +10,8 @@ redirect_from:
 UNIRUY
 ======
 * 2024 - 2o semestre
-    * []
-    * ADM181 - Administração da Produção II
+    * [Cálculo Numérico](teaching/2024-2-NumericalCalculus)
+    * [Software Básico em C]()
 
 * 2019 - 2o semestre
   * Graduação em Administração
