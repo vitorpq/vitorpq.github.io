@@ -15,4 +15,4 @@ UNIRUY
 
 Jala
 ======
-*[BDA-1](/2024-2-BDA1)
+* [BDA-1](/teaching/2024-2-BDA1)
