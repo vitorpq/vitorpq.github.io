@@ -1,0 +1,186 @@
+---
+layout: archive
+title: "BDA-1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2024-2-BDA1
+venue: "Jala, TDS"
+date: 2024-08-28
+location: "Salvador, Brasil"
+---
+
+### Introduction to SQL for MySQL
+
+SQL (Structured Query Language) is a standard language used to manage and manipulate databases. MySQL is one of the most popular relational database management systems that use SQL. Here's a brief tutorial covering the essential SQL commands you'll need when working with MySQL.
+
+### Basic SQL Commands for MySQL
+
+#### 1. **Database Operations**
+   - **CREATE DATABASE**: Create a new database.
+     ```sql
+     CREATE DATABASE database_name;
+     ```
+   - **USE**: Select a database to work with.
+     ```sql
+     USE database_name;
+     ```
+   - **DROP DATABASE**: Delete an existing database.
+     ```sql
+     DROP DATABASE database_name;
+     ```
+
+#### 2. **Table Operations**
+   - **CREATE TABLE**: Create a new table.
+     ```sql
+     CREATE TABLE table_name (
+         column1 datatype,
+         column2 datatype,
+         ...
+     );
+     ```
+   - **ALTER TABLE**: Modify an existing table (e.g., add, modify, or drop columns).
+     ```sql
+     ALTER TABLE table_name ADD column_name datatype;
+     ALTER TABLE table_name MODIFY column_name new_datatype;
+     ALTER TABLE table_name DROP COLUMN column_name;
+     ```
+   - **DROP TABLE**: Delete an existing table.
+     ```sql
+     DROP TABLE table_name;
+     ```
+   - **TRUNCATE TABLE**: Remove all data from a table but keep the structure.
+     ```sql
+     TRUNCATE TABLE table_name;
+     ```
+
+#### 3. **Data Operations**
+   - **INSERT INTO**: Insert new data into a table.
+     ```sql
+     INSERT INTO table_name (column1, column2, ...) VALUES (value1, value2, ...);
+     ```
+   - **SELECT**: Query data from a table.
+     ```sql
+     SELECT column1, column2, ... FROM table_name WHERE condition;
+     ```
+   - **UPDATE**: Update existing data in a table.
+     ```sql
+     UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
+     ```
+   - **DELETE**: Remove data from a table.
+     ```sql
+     DELETE FROM table_name WHERE condition;
+     ```
+
+#### 4. **Query Clauses**
+   - **WHERE**: Filter records based on a condition.
+     ```sql
+     SELECT column1, column2 FROM table_name WHERE condition;
+     ```
+   - **ORDER BY**: Sort the results of a query.
+     ```sql
+     SELECT column1, column2 FROM table_name ORDER BY column1 ASC|DESC;
+     ```
+   - **GROUP BY**: Group rows that have the same values in specified columns.
+     ```sql
+     SELECT column1, COUNT(*) FROM table_name GROUP BY column1;
+     ```
+   - **HAVING**: Filter groups after grouping them with `GROUP BY`.
+     ```sql
+     SELECT column1, COUNT(*) FROM table_name GROUP BY column1 HAVING COUNT(*) > 1;
+     ```
+   - **JOIN**: Combine rows from two or more tables based on a related column.
+     - **INNER JOIN**: Returns records with matching values in both tables.
+       ```sql
+       SELECT columns FROM table1 INNER JOIN table2 ON table1.column = table2.column;
+       ```
+     - **LEFT JOIN**: Returns all records from the left table and matched records from the right table.
+       ```sql
+       SELECT columns FROM table1 LEFT JOIN table2 ON table1.column = table2.column;
+       ```
+     - **RIGHT JOIN**: Returns all records from the right table and matched records from the left table.
+       ```sql
+       SELECT columns FROM table1 RIGHT JOIN table2 ON table1.column = table2.column;
+       ```
+     - **FULL JOIN**: Returns all records when there is a match in either left or right table.
+       (Note: MySQL does not support FULL OUTER JOIN directly, but you can achieve similar results using a combination of `LEFT JOIN` and `RIGHT JOIN`.)
+
+#### 5. **Indexing**
+   - **CREATE INDEX**: Create an index on a table.
+     ```sql
+     CREATE INDEX index_name ON table_name (column_name);
+     ```
+   - **DROP INDEX**: Remove an index.
+     ```sql
+     DROP INDEX index_name ON table_name;
+     ```
+
+#### 6. **View Operations**
+   - **CREATE VIEW**: Create a new view.
+     ```sql
+     CREATE VIEW view_name AS SELECT column1, column2 FROM table_name WHERE condition;
+     ```
+   - **DROP VIEW**: Delete a view.
+     ```sql
+     DROP VIEW view_name;
+     ```
+
+#### 7. **Stored Procedures and Functions**
+   - **CREATE PROCEDURE**: Create a stored procedure.
+     ```sql
+     CREATE PROCEDURE procedure_name (parameters)
+     BEGIN
+         SQL statements;
+     END;
+     ```
+   - **CALL**: Execute a stored procedure.
+     ```sql
+     CALL procedure_name(parameters);
+     ```
+   - **CREATE FUNCTION**: Create a stored function.
+     ```sql
+     CREATE FUNCTION function_name (parameters) RETURNS return_datatype
+     BEGIN
+         SQL statements;
+         RETURN value;
+     END;
+     ```
+   - **DROP PROCEDURE**: Delete a stored procedure.
+     ```sql
+     DROP PROCEDURE procedure_name;
+     ```
+   - **DROP FUNCTION**: Delete a stored function.
+     ```sql
+     DROP FUNCTION function_name;
+     ```
+
+#### 8. **Transaction Control**
+   - **START TRANSACTION**: Begin a new transaction.
+     ```sql
+     START TRANSACTION;
+     ```
+   - **COMMIT**: Save the changes made in the current transaction.
+     ```sql
+     COMMIT;
+     ```
+   - **ROLLBACK**: Undo the changes made in the current transaction.
+     ```sql
+     ROLLBACK;
+     ```
+
+#### 9. **User Management**
+   - **CREATE USER**: Create a new MySQL user.
+     ```sql
+     CREATE USER 'username'@'host' IDENTIFIED BY 'password';
+     ```
+   - **GRANT**: Assign privileges to a user.
+     ```sql
+     GRANT ALL PRIVILEGES ON database_name.* TO 'username'@'host';
+     ```
+   - **REVOKE**: Remove privileges from a user.
+     ```sql
+     REVOKE ALL PRIVILEGES ON database_name.* FROM 'username'@'host';
+     ```
+   - **DROP USER**: Delete a MySQL user.
+     ```sql
+     DROP USER 'username'@'host';
+     ```
