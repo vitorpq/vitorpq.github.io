@@ -7,9 +7,13 @@ permalink: /teaching/2024-2-NumericalCalculus
 venue: "UNIRUY, TDS"
 date: 2024-08-13
 location: "Salvador, Brasil"
+tags:
+    - teaching
+    - engineering
+    - computer science
 ---
 
-Cálculo Numérico
+Syllabus
 ======
 
 ### Aula 1: Introdução à Modelagem Matemática e Erros em Cálculos Numéricos

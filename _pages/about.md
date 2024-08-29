@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Esta é minha página pessoal. Aqui você encontra informações sobre minhas publicações, aulas e pesquisas.
+This is my page. Here you will find information about my publications, classes, and research.
