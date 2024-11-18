@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+Análise Diária
+======
+[Análise WINFUT](https://www.notion.so/vitorea/1b26882789ab491faac64be2fe40f043?v=d99ee2e4eae64e50ab545debc5e06cf1&pvs=4)
+
+
 Artigos
 ======
 TUMENAS, Felipe. Financiamento das universidades líderes nos rankings internacionais, um caminho para as universidades públicas brasileiras?. Avaliação: Revista da Avaliação da Educação Superior (Campinas), v. 26, p. 270-287, 2021. [Link](https://www.scielo.br/j/aval/a/BznKpxfpS5T5DPj553XHnPx/)
