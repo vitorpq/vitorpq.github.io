@@ -17,7 +17,8 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "sync": "rsync -av --delete --include='*.md' --include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.gif' --include='*.svg' --include='*.pdf' --exclude='*' '/Users/vitor/syncthing/Obsidian/3f/3. Resources/vitor.one/' content/obsidian/"
   },
   "engines": {
     "npm": ">=10.9.2",
