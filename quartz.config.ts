@@ -8,16 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Vítor One",
+    pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "google",
-      tagId: "UA-XXXXXXXXX-X", // Você pode atualizar seu ID do Analytics aqui se desejar
+      provider: "plausible",
     },
-    locale: "pt-BR",
-    baseUrl: "vitorpq.github.io",
+    locale: "en-US",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

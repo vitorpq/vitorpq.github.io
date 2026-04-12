@@ -18,7 +18,8 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "sync": "rsync -av --delete --include='*.md' --include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.gif' --include='*.svg' --include='*.pdf' --exclude='*' '/Users/vitor/syncthing/Obsidian/3f/3. Resources/vitor.one/' content/obsidian/"
+    "prep": "rm -rf content && cp -r '/Users/vitor/syncthing/Obsidian/3f/3. Resources/vitor.one' content && cp -r '/Users/vitor/syncthing/Obsidian/3f/attachments' content/attachments",
+    "link": "rm -rf content && ln -s '/Users/vitor/syncthing/Obsidian/3f/3. Resources/vitor.one' content"
   },
   "engines": {
     "npm": ">=10.9.2",
