@@ -1,41 +1,5 @@
-/* RECONSTRUÇÃO DO GRID - Vítor One */
-/* Este código força o layout de 3 colunas paralelas */
+@use "./base.scss";
 
-@media screen and (min-width: 800px) {
-  .page {
-    display: grid !important;
-    grid-template-columns: 300px 1fr 300px !important;
-    grid-template-areas: "left center right" !important;
-    gap: 2rem !important;
-    max-width: 1400px !important;
-    margin: 0 auto !important;
-    padding: 2rem !important;
-  }
-
-  .left {
-    grid-area: left !important;
-    display: block !important;
-    position: sticky !important;
-    top: 2rem !important;
-    height: fit-content !important;
-  }
-
-  .center {
-    grid-area: center !important;
-    display: block !important;
-    min-width: 0 !important;
-  }
-
-  .right {
-    grid-area: right !important;
-    display: block !important;
-    position: sticky !important;
-    top: 2rem !important;
-    height: fit-content !important;
-  }
-}
-
-/* Ajustes visuais para os componentes */
 .profile-photo {
   width: 150px;
   height: 150px;
@@ -43,15 +7,4 @@
   object-fit: cover;
   margin-bottom: 1rem;
   border: 2px solid var(--lightgray);
-}
-
-.page-title {
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
-}
-
-.header-links {
-  display: flex;
-  gap: 1.5rem;
-  margin-bottom: 2rem;
 }

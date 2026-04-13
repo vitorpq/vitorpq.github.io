@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - quartz-migration # Depois que você fizer o merge, mude para 'master' ou 'main'
+      - main
 
 permissions:
   contents: read
