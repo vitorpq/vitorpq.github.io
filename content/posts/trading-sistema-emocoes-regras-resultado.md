@@ -1,6 +1,7 @@
 ---
 title: "Meu sistema de trading: como registro emoções, regras e resultado em cada operação"
 date: 2026-04-19
+draft: true
 tags:
   - trading
   - psicologia
@@ -16,7 +17,7 @@ Aqui está o que uso hoje.
 
 ---
 
-## A estrutura: 5 seções por trade
+## A ESTRUTURA: 5 SEÇÕES POR TRADE
 
 Cada operação recebe um arquivo próprio com frontmatter YAML e cinco seções. O frontmatter é a parte que permite filtrar, agregar e analisar depois — com Dataview no Obsidian ou qualquer ferramenta de análise.
 
@@ -44,35 +45,35 @@ O resultado em dinheiro importa menos do que `pnl_R` e `rule_adherence`. Um trad
 
 ---
 
-## As 5 seções do diário
+## AS 5 SEÇÕES DO DIÁRIO
 
-### 1. Contexto (Brooks)
+### 1. CONTEXTO (BROOKS)
 Anoto o que o mercado está fazendo em três timeframes — 60m, 15m e 5m — antes de entrar. Regime de mercado, tipo de entrada, qualidade do sinal, localização no gráfico.
 
 Isso força a leitura top-down antes de agir. Sem isso, é fácil olhar só para o 5m e entrar em uma tendência contrária ao 60m.
 
-### 2. Plano (antes da entrada)
+### 2. PLANO (ANTES DA ENTRADA)
 Tese em 1–2 frases. Entrada, stop técnico, alvo, e — o mais importante — **o que invalidaria a tese**. Se não consigo definir a invalidação, não entro.
 
-### 3. Execução
+### 3. EXECUÇÃO
 Respondo a uma pergunta simples: executei como planejado? Sim ou não, e por quê. Registro a gestão (parcial, trail, breakeven) e o resultado final.
 
-### 4. Pós-análise
+### 4. PÓS-ANÁLISE
 Aqui é onde o sistema ganha profundidade:
 
 - **Aderência às regras:** nota de 0 a 100
-- **Erro?** campo booleano + tags de tipo de erro (`Adiantado`, `Saída antecipada`, `Ativo fora do plano`, etc.)
+- **Error?** campo booleano + tags de tipo de error (`Adiantado`, `Saída antecipada`, `Ativo fora do plano`, etc.)
 - O que foi bem e merece reforço
 - Um único ajuste objetivo para o próximo trade
 
-A taxonomia de erros é o que permite ver padrões ao longo do tempo. Se `Saída antecipada` aparece toda semana, não é azar — é um problema de gestão de medo que precisa ser trabalhado.
+A taxonomia de errors é o que permite ver padrões ao longo do tempo. Se `Saída antecipada` aparece toda semana, não é azar — é um problema de gestão de medo que precisa set trabalhado.
 
-### 5. Evidências
+### 5. EVIDÊNCIAS
 Screenshots do setup e da execução. Sem imagem, o registro perde contexto depois de algumas semanas.
 
 ---
 
-## O que os logs revelam na prática
+## O QUE OS LOGS REVELAM NA PRÁTICA
 
 **07/01/2026 — GOLD SHORT**
 
@@ -96,7 +97,7 @@ Esse é o tipo de dado que um simples "trade ganho ✓" nunca capturaria.
 
 ---
 
-## Por que registrar emoções importa
+## POR QUE REGISTRAR EMOÇÕES IMPORTA
 
 Emoção antes, durante e depois da operação parece excessivo até você perceber os padrões.
 
@@ -108,7 +109,7 @@ Esses ciclos são invisíveis se você só olha para o P&L. Ficam óbvios quando
 
 ---
 
-## O sistema em uma linha
+## O SISTEMA EM UMA LINHA
 
 > Rastrear aderência e emoção é mais valioso do que rastrear resultado — porque resultado é consequência, e você só melhora o que consegue medir na causa.
 
