@@ -1,5 +1,5 @@
 ---
-title: "Como eu uso o Claude Code sem desperdiçar tokens — 13 hacks práticos"
+title: Tokens do Claude Code — hacks práticos
 date: 2026-04-12
 tags:
   - dev
@@ -24,7 +24,7 @@ Antes mesmo da sua primeira mensagem, o Claude já carrega metadados, o `CLAUDE.
 
 ---
 
-## OS 13 HACKS
+## HACKS
 
 ### 1. NOVA TAREFA = NOVA CONVERSA
 Use `/clear` ao começar uma funcionalidade diferente. O histórico do bug anterior é ruído para a próxima feature.
